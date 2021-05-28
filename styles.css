@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+
+h1{
+    color : red;
+    text-align: center;
+}
+
+.momo{
+    color : green;
+    font-size: 50px;
+
+}
+.fullstack{
+    font : italic small-caps bold 16px/2 cursive;
+    
+}
+
+p.fullstack{
+    text-align: right;
+}
+#momo{
+    color :red;
+    font-size : 30px;
+}
